@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test 2", "Test 2.csproj", "{CC786A38-50AE-4F15-A4E4-58B17ECB9AA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question 2", "..\Question 2\Question 2.csproj", "{AFC8974B-3117-44B9-B47B-01374358EDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question 3", "..\Question 3\Question 3.csproj", "{52CCB70C-762E-4709-B894-FA49C558583D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC786A38-50AE-4F15-A4E4-58B17ECB9AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC786A38-50AE-4F15-A4E4-58B17ECB9AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC786A38-50AE-4F15-A4E4-58B17ECB9AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC786A38-50AE-4F15-A4E4-58B17ECB9AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC8974B-3117-44B9-B47B-01374358EDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC8974B-3117-44B9-B47B-01374358EDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC8974B-3117-44B9-B47B-01374358EDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC8974B-3117-44B9-B47B-01374358EDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CCB70C-762E-4709-B894-FA49C558583D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CCB70C-762E-4709-B894-FA49C558583D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CCB70C-762E-4709-B894-FA49C558583D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CCB70C-762E-4709-B894-FA49C558583D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B0270A-084D-4BAD-A480-A90604EEFFC8}
+	EndGlobalSection
+EndGlobal
